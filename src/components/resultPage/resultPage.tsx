@@ -24,7 +24,6 @@ function Result() {
       if (distributed.length > 0) {
   
         distributed.forEach((amount, index) => {
-          console.log(amount, index)
             const row = document.createElement('tr');
   
             const participantCell = document.createElement('td');
