@@ -1,3 +1,6 @@
+# angpao-distributor
+Coding challenge algorithm to distribute angpao money randomly
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
